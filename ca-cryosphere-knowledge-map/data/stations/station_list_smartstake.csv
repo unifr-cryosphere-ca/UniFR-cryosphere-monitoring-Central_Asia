@@ -1,0 +1,9 @@
+Name,Variables,Latitude,Longitude,Elevation (m),Start,End,Time step
+Abramov Glacier SMST-05,"ice surface lowering; housing temperature, humidity and pressure",39.62139,71.54923,,2023-07-25,2026-10-24,2 h
+Zulmart Glacier SMST-06,"ice surface lowering; housing temperature, humidity and pressure",38.86480,73.00346,,2023-08-11,2026-10-23,2 h
+Yakartsha Glacier SMST-10,"ice surface lowering; housing temperature, humidity and pressure",38.98469,68.56451,,2023-08-28,2026-10-18,2 h
+Golubin Glacier SMST-11,"ice surface lowering; housing temperature, humidity and pressure",42.46449,74.49348,,2023-08-03,2026-10-21,2 h
+Glacier No.354 SMST-12,"ice surface lowering; housing temperature, humidity and pressure",41.79461,78.15734,,2023-07-12,2026-10-25,2 h
+Batysh Sook Glacier upper SMST-13,"ice surface lowering; housing temperature, humidity and pressure",41.78403,77.75171,,2023-07-11,2026-10-24,2 h
+Batysh Sook Glacier lower SMST-14,"ice surface lowering; housing temperature, humidity and pressure",41.79390,77.74892,,2023-07-13,2026-10-24,2 h
+Glacier No.457 SmartStake,"ice surface lowering; housing temperature, humidity and pressure",37.399696,72.826394,,2024-08-02,2026-08-29,30 min

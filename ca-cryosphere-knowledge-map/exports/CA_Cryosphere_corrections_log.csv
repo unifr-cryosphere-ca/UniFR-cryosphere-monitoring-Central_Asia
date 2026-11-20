@@ -1,0 +1,61 @@
+﻿Type,Where,What,Before,After,Status
+Coordinate fixed,Row 91: Taldykorgan,Longitude stored as text with a stray character,(78.4500,78.45,applied
+Coordinate fixed,Row 118: Ilyinsky,Latitude had a missing decimal point,542051.0,54.2051,applied
+Name harmonised,Measured by,"Leading space or Cyrillic ""С"" removed so the organisation matches its other spellings",' CARGC',CARGC,applied
+Name harmonised,Measured by,"Leading space or Cyrillic ""С"" removed so the organisation matches its other spellings",' Kyrgyz Hydromet',Kyrgyz Hydromet,applied
+Name harmonised,Measured by,"Leading space or Cyrillic ""С"" removed so the organisation matches its other spellings",'СRG',CRG,applied
+Name harmonised,Measured by,"Leading space or Cyrillic ""С"" removed so the organisation matches its other spellings","'СRG,Tajhydromet'","CRG, Tajhydromet",applied
+Name harmonised,"Site ""Batysh Suek""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Batysh Suek,Batysh Sook,applied
+Name harmonised,"Site ""#354""",Spelling aligned with the ArcGIS map / WGMS name so the records join,#354,No.354 (Akshiirak),applied
+Name harmonised,"Site ""#599""",Spelling aligned with the ArcGIS map / WGMS name so the records join,#599,No.599 (Kjungey Ala-Too),applied
+Name harmonised,"Site ""#676 (GGP)""",Spelling aligned with the ArcGIS map / WGMS name so the records join,#676 (GGP),No.676 (GGP),applied
+Name harmonised,"Site ""# 71 (Yakarcha)""",Spelling aligned with the ArcGIS map / WGMS name so the records join,# 71 (Yakarcha),Yakarcha (No.71),applied
+Name harmonised,"Site ""#457 (NHD)""",Spelling aligned with the ArcGIS map / WGMS name so the records join,#457 (NHD),No.457 (NHD),applied
+Name harmonised,"Site ""Uybulak Pass""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Uybulak Pass,Uy-Bulak Pass,applied
+Name harmonised,"Site ""Josalykezen Pass""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Josalykezen Pass,Zholsaly-kezen Pass,applied
+Name harmonised,"Site ""Kon Chykur Bashisa""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Kon Chykur Bashisa,Kon-Chukurbashi,applied
+Name harmonised,"Site ""Ishkashym""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Ishkashym,Ishkashim,applied
+Name harmonised,"Site ""Gregoriev""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Gregoriev,Grigoriev,applied
+Name harmonised,"Site ""Barkrak pravyy""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Barkrak pravyy,Barkrak Pravyy,applied
+Name harmonised,"Site ""Barkrak Sredniy""",Spelling aligned with the ArcGIS map / WGMS name so the records join,Barkrak Sredniy,Barkrak Sredniy,applied
+Theme assigned,11 rows,"Component ""Glacier"" with ERT/GST method shown in the Permafrost layer (ERT/GST are permafrost methods). Original component kept in the record.",Glacier,Permafrost layer,applied
+Theme assigned,All rows,"Runoff and air-temperature (AWS / weather-station) rows shown in their own Runoff and Meteorology layers, matching the five ArcGIS themes. Original component kept in the record.",,,applied
+Coordinate filled,Row 559: Uy-Bulak Pass,No coordinates in the spreadsheet; position taken from the ArcGIS map (please confirm),,"39.203, 73.4421",applied
+Coordinate filled,Row 560: Uy-Bulak Pass,No coordinates in the spreadsheet; position taken from the ArcGIS map (please confirm),,"39.203, 73.4421",applied
+Coordinate filled,Row 561: Uy-Bulak Pass,No coordinates in the spreadsheet; position taken from the ArcGIS map (please confirm),,"39.203, 73.4421",applied
+Coordinate filled,Row 562: Ishkashim,No coordinates in the spreadsheet; position taken from the ArcGIS map (please confirm),,"37.5667, 73.0833",applied
+Coordinate filled,Row 563: Ishkashim,No coordinates in the spreadsheet; position taken from the ArcGIS map (please confirm),,"37.5667, 73.0833",applied
+Coordinate filled,Row 564: Kon-Chukurbashi,No coordinates in the spreadsheet; position taken from the ArcGIS map (please confirm),,"39.25, 73.55",applied
+Coordinate corrected,"Site ""Uy-Bulak Pass""",Position set to the UniFr station list (moved 3 m),"39.203, 73.4421","39.20302, 73.44212",applied
+Coordinate corrected,"Site ""Zholsaly-kezen Pass""",Position set to the UniFr station list (moved 15 m),"43.040755, 76.943478","43.04076, 76.94329",applied
+Records merged,UniFr station lists,"43 records from the UniFr station lists (meteo, borehole, SmartStake) added with their coordinates, periods and time steps. Not placed (no coordinates): Nissai catchment.",,,applied
+ArcGIS issue,"ArcGIS meteo ""Zulmart (No.139) - on rock""",Period on the map (2019.03-2024.08) differs from the UniFr station list (2019-08-06 to 2026-08-22). Station list used.,,,to review
+ArcGIS issue,"ArcGIS meteo ""Zulmart (No.139) - on ice""",Period on the map (2024.08-2024.12) differs from the UniFr station list (2023-08-10 to 2026-08-22). Station list used.,,,to review
+ArcGIS issue,"ArcGIS meteo ""Uy-Bulak Pass""",Period on the map (2024.04-2025.08) differs from the UniFr station list (2024-08-19 to 2026-08-18). Station list used.,,,to review
+ArcGIS issue,"ArcGIS meteo ""No.354 (Akshiirak)""",Period on the map (2022.08-2025.08) differs from the UniFr station list (2022-10-18 to 2026-10-23). Station list used.,,,to review
+ArcGIS issue,"ArcGIS meteo ""No.457 (NHD)""",Period on the map (2023.07-2025.08) differs from the UniFr station list (2023-08-16 to 2026-08-29). Station list used.,,,to review
+ArcGIS issue,"ArcGIS meteo ""Zholsaly-kezen Pass""",Period on the map (2024.04-2025.06) differs from the UniFr station list (2024-06-28 to 2026-03-16). Station list used.,,,to review
+ArcGIS issue,"ArcGIS meteo ""Yakarcha (No.71)""",Period on the map (2021.05-2025.08) differs from the UniFr station list (2021-09-19 to 2026-02-11). Station list used.,,,to review
+Coordinate corrected,"ArcGIS meteo ""Sangvor""","Replaced by the UniFr station list (""Nissai (Sangvor)""): position moved 0.0 km, elevation 3000 → 3909 m","38.7431, 71.3587","38.74311, 71.35874",applied
+Coordinate corrected,"ArcGIS meteo ""Barkrak""","Replaced by the UniFr station list (""Barkrak Middle""): position moved 1.6 km, elevation 3660 → 3461 m","42.1167, 71.0","42.12952, 70.99081",applied
+Coordinate corrected,"ArcGIS snow ""Sangvor""","Replaced by the UniFr station list (""Nissai (Sangvor)""): position moved 37 km","38.9167, 71.0","38.74311, 71.35874",applied
+Records replaced,ArcGIS meteo and snow layers,"UniFr AWS and snow-height records from the ArcGIS map replaced by the UniFr station lists (correct coordinates, periods, variables). GFZ/SDSS stations Abramov and Golubin kept from the ArcGIS map.",,,applied
+Records merged,ArcGIS map,"27 records from the ArcGIS layers (runoff, ERT profiles, GFZ/SDSS stations) added with source ""ArcGIS map"".",,,applied
+Region corrected,Gregoriev,Map labelled it Kyrgyz Ala-Too; its own description says south slope of the Terskey Ala-Too.,"Central Tien Shan, Kyrgyz Ala-Too Range","Inner Tien Shan, Terskey Ala-Too Range",applied
+Region corrected,Uy-Bulak Pass,"Uy-Bulak Pass lies in the Eastern Pamir, not the Western Pamir.",Western Pamir,Eastern Pamir,applied
+Region corrected,Kon-Chukurbashi,"Kon-Chukurbashi lies in the Eastern Pamir, not the Western Pamir.",Western Pamir,Eastern Pamir,applied
+Region corrected,Zulmart (No.139),"Zulmart lies in the Central/Eastern Pamir, not the Western Pamir.",Western Pamir,Eastern Pamir (Zulmart / Muzkol area),applied
+Region corrected,Karakul,"Karakul lies in the Eastern Pamir, not the Western Pamir.",Western Pamir,Eastern Pamir,applied
+Region corrected,Bulunkul,"Bulunkul lies in the Eastern Pamir, not the Western Pamir.",Western Pamir,Eastern Pamir,applied
+Region corrected,Barkrak,"Barkrak is in the Western Tien Shan, Pskem basin, not the Zeravshan Range (Pamir-Alay). Please verify range name.","Western Tian Shan, Zeravshan Range",Western Tien Shan (Pskem basin),applied
+Region corrected,Barkrak Pravyy,As for Barkrak. Please verify.,"Western Tian Shan, Zeravshan Range",Western Tien Shan (Pskem basin),applied
+Region corrected,Barkrak Sredniy East Branch,As for Barkrak. Please verify.,"Western Tian Shan, Zeravshan Range",Western Tien Shan (Pskem basin),applied
+ArcGIS issue,Meteo layer,One record has no name and no coordinates; not carried over.,,,to review
+ArcGIS issue,Glacier layer,"Stray record ""GLACIOLOGICAL DATA"" with no coordinates; not carried over.",,,to review
+ArcGIS issue,Permafrost layers,"44 profile start points but 41 end points (Akshiirak, Uy-Bulak Pass, Zholsaly-kezen have no end point). Dates mix two formats (20.08.21 and 2021-08-20).",,,to review
+ArcGIS issue,Sangvor,"Two different positions on the map: 38.7431, 71.3587 (meteo) and 38.9167, 71.0000 (snow, main info), about 35 km apart. The spreadsheet has a third: 38.52, 71.05. The UniFr station list confirms 38.74311, 71.35874 (Nissai/Sangvor AWS, 3909 m).",,,to review
+ArcGIS issue,Several sites,"Main-information coordinates rounded to whole arc-minutes (e.g. 42.1167, 71.0000), 1–2 km off. Layer geometries used instead where available.",,,to review
+ArcGIS issue,Golubin runoff,"Start date 2024-08-07, but the remark says measurements also ran 2019–2021.",,,to review
+ArcGIS issue,Golubin description,"""length: 235 m in 2022"" is probably the front retreat, not the glacier length (~5 km).",,,to review
+ArcGIS issue,Citations,"""Barandun et al., Accepted a"" should be replaced by the published reference.",,,to review
+ArcGIS issue,Names,"Inconsistent spellings: Gregoriev/Grigoriev, Uy-Bulak/UyBulak, Zholsaly-kezen/Zhosalykezen, Kjungey/Kungey Ala-Too. Harmonised here.",,,to review
